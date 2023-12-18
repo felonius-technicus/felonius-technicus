@@ -59,4 +59,4 @@ This tends to be good for you.
 
 ### It is really hard to hire software engineers
 
-We don't make good money because there are a lot of people who are really good at this. We make good money because companies need us and there aren't enough of us. If you get through their interview, you've proven that you are good at this and that they need you. They have at least as much to lose by turning you down over your criminal record as you do losing the job offer. Try not to sweat it.
+We don't make good money because there are a lot of people who are really good at this. We make good money because companies need us and there aren't enough of us. If you get through their interview, you've proven that you are good at this and that they need you. They have at least as much to lose, in raw dollars, by turning you down over your criminal record as you do by losing the job offer. Try not to sweat it.
