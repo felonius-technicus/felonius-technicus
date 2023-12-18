@@ -45,7 +45,7 @@ I know very little about these, but the indirect rumor is that people with crimi
 
 ### Fair chance ordinances
 
-You probably don't need to know the details about this. Basically: There are a bunch of laws that tell companies when and how they can background check you and what they can consider during a background check. Included here in case it does somehow matter for you.
+You probably don't need to know the details about this. Basically: There are a bunch of laws that tell companies when and how they can background check you and what they can consider during a background check. I'm including it in case, for some reason, this does make a difference for someone.
 
 Many, if not most, tech companies are based in or operate in San Francisco, and must comply with the [San Francisco Fair Chance Ordinance](https://sfgov.org/olse/sites/default/files/FileCenter/Documents/11600-Art%20%2049%20Official%20Notice%20Final%20091114.pdf).
 
