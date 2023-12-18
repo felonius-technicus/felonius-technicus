@@ -21,7 +21,7 @@ For the rest of us: They won't ask about your record when talking to you, and yo
 
 ### Background checks
 
-Most jobs will run a background check. This will be after your interviews to decide if you seem like you know what you're doing and would be okay to work with. They will directly ask about your criminal record in writing and have you sign a consent form for the background check. You will know when it is happening; it is not a surprise.
+Most jobs will run a background check. This will be after your interviews to decide if you seem like you know what you're doing and would be okay to work with. They will directly ask about your criminal record in writing and have you sign a consent form for the background check. You will know when it is happening; it is not a surprise. Write down what your convictions are and, if called for, a brief, and probably vague, explanation for them and how happy you are that that's all behind you.
 
 There are three things that will definitely keep you from getting hired:
 
