@@ -45,9 +45,9 @@ I know very little about these, but the indirect rumor is that people with crimi
 
 ### Fair chance ordinances
 
-You probably don't need to know the details about this. Basically: There are a bunch of laws that tell companies when and how they can background check you and sometimes what they can background check for. I'm including it in case, for some reason, this does make a difference for someone.
+There are a bunch of laws that tell companies when and how they can background check you and sometimes what they can background check for.
 
-Many, if not most, tech companies are based in or operate in San Francisco, and must comply with the [San Francisco Fair Chance Ordinance](https://sfgov.org/olse/sites/default/files/FileCenter/Documents/11600-Art%20%2049%20Official%20Notice%20Final%20091114.pdf).
+Many, if not most, tech companies are based in or operate in San Francisco, and must comply with the [San Francisco Fair Chance Ordinance](https://sfgov.org/olse/sites/default/files/FileCenter/Documents/11600-Art%20%2049%20Official%20Notice%20Final%20091114.pdf). Among other things, it says that they cannot consider convictions that are more than seven years old. This probably means they won't even run a background check that goes back that far, because then they cannot be accused of violating the ordinance.
 
 If they operate in California but not San Francisco, there's the [California Fair Chance Act](https://calcivilrights.ca.gov/wp-content/uploads/sites/32/2022/11/Fair-Chance-Act-FAQ_ENG.pdf).
 
