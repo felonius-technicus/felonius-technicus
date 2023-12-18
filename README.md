@@ -33,11 +33,11 @@ Otherwise, probably the background check will not keep you from getting hired. B
 
 I still worry about it every time a background check goes in. It hasn't mattered yet, and I've worked at FAANG, for bigger startups, and for financial institutions. So, probably, usually, the background check won't matter.
 
-I do know one person who actually lost a job offer over a background check. He was the lead programmer maintaining all the programs that kept our state's prison system running. He used to say that he worked for the Man and helped Him find new ways to keep us down. When he got out he had over ten years of experience, had good references from his old supervisors, and he had only been out of prison for like a month. He applied for a bunch of jobs, got an offer he didn't want, and then got an offer from a bank (I think Schwab?) which declined him after the background check, and then got an offer from a startup. He's been working at the startup for a year and a half now. I think he bought a house.
+I do know one person who actually lost a job offer over a background check. He was the lead programmer maintaining all the programs that kept our state's prison system running. He used to say that he worked for the Man and helped Him find new ways to keep us down. When he got out he had over ten years of experience, and had good references from his old supervisors. He applied for a bunch of jobs fresh from prison, got an offer he didn't want, and then got an offer from a bank (I think Schwab?) which declined him after the background check, and then got an offer from a startup. He's been working at the startup for a year and a half now. I think he bought a house.
 
 You can get denied jobs because of your criminal record, occasionally, it turns out. It did happen to him. It worked out. It kind of didn't matter because if you can get one job offer, you can usually get more than one.
 
-On the off chance they actually want to talk to you about what comes back on your background check, be ready to talk about it. I'd avoid detail and emphasize how much it's behind you, but it's literally never come up for me. Can't help that much with it.
+On the off chance they actually want to talk to you about what comes back on your background check, be ready to talk about it. I'd avoid detail and emphasize how much it's behind you, but it's literally never come up for me.
 
 ### Security clearances
 
