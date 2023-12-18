@@ -9,7 +9,7 @@ I will mostly leave out career advice that applies to everyone, like that your f
 
 ### First and foremost, do not lie
 
-Never, ever lie. This is generally a good rule, but is especially a good rule when applying for and working at jobs that you actually want to have. If you lie about anything, including your criminal record, you will not get hired or you will get fired. Period. About your record specifically, they can and will find out because they will usually run a background check.
+Never, ever lie. This is generally a good rule, but is especially a good rule when applying for and working at jobs that you actually want to have. If you lie about anything, including your criminal record, you will not get hired or you will get fired. Period. They can and will find out about your record by running a background check. If they are asking, tell the truth.
 
 ### Don't mention your criminal record unless directly asked
 
