@@ -3,7 +3,7 @@
 
 I have been working as a software engineer for a few years. Before that I was in prison for a decade. I have talked to several people about working in tech with a criminal record, and I figured I should write this down to avoid repeating myself or missing anything in the future.
 
-I will mostly leave out career advice that applies to everyone, like that your first job is the hardest to get, whether and why you need a degree, etc. This is advice for people with criminal records.
+I will mostly leave out career advice that applies to everyone, like that your first job in tech is the hardest to get, whether and why you need a degree, etc. This is advice for people with criminal records.
 
 ## What you need to know
 
