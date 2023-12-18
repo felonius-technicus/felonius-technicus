@@ -13,7 +13,7 @@ Never, ever lie. This is generally a good rule, but is especially a good rule wh
 
 ### Don't mention your criminal record unless directly asked
 
-They almost certainly will not ask except during a background check. Any time anyone asks any other question, you want to have an answer that is not related to having a record. You know and I know that "a time when you overcame adversity" means a whole lot of things to a whole lot of people. You've overcome adversity more than once. Pick a time that wasn't related to a criminal conviction in any way. Preferably something business or tech related.
+They almost certainly will not ask except during a background check. Any time anyone asks any other question, you want to have an answer that is not related to having a record. You know and I know that "a time when you overcame adversity" means a whole lot of things to a whole lot of people. You've overcome adversity more than once. Pick a time that wasn't related to a criminal conviction in any way; preferably, something business or tech related.
 
 Some people say to just wear their record on their sleeve. I don't agree. In specific places like San Francisco where there are programs that train people in prison for tech jobs, maybe. If you're in one of those programs, ignore my advice. Listen to whoever your program's job placement person is.
 
